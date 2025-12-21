@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujsmit" alt="anujsmit" /></a> </p>
 
-- 🔭 I’m currently working on **Seo analysis**
+- 🔭 I’m currently working on **Seo analysis website**
 
 - 🌱 I’m currently learning **JAVA**
 
