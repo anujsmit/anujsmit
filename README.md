@@ -1,87 +1,99 @@
-<h1 align="center">Hi 👋, I'm Anuj Kattel</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+# Hi 👋, I'm Anuj Kattel
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=anujsmit&label=Profile%20views&color=0e75b6&style=flat" alt="anujsmit" /> 
-</p>
+### 🚀 Full Stack & Flutter Developer from Nepal
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anujsmit" alt="anujsmit" />
-  </a> 
-</p>
+I build web and mobile applications that solve real-world problems. Currently focused on creating digital products for businesses and everyday users.
 
-- 🔭 I'm currently working on **SEO analysis website**
 
-- 🌱 I'm currently learning **JAVA**
 
-- 📝 I regularly write articles on [ezoix.com](https://ezoix.com)
+## 🌟 What I'm Building
 
-- 💬 Ask me about **MERN stack**
+### 📱 Digital Khata
 
-- 📫 How to reach me: **anujkattel62@gmail.com**
+A digital ledger and business management app that helps businesses manage customers, transactions, invoices, and reports.
 
-- ⚡ Fun fact: **I am a programmer**
+### 🛠️ Servex
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add your social links here -->
-</p>
+A doorstep service platform that connects customers with trusted service providers.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-</p>
+### 🔍 SEO Tools
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujsmit&show_icons=true&locale=en&layout=compact" alt="anujsmit" />
-</p>
+Tools that help website owners improve search visibility and performance.
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anujsmit&show_icons=true&locale=en" alt="anujsmit" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujsmit" alt="anujsmit" />
-</p>
+
+## 💻 Tech Stack
+
+**Mobile**
+
+* Flutter
+* Dart
+* Firebase
+* Supabase
+
+**Frontend**
+
+* React.js
+* JavaScript
+* Tailwind CSS
+
+**Backend**
+
+* Node.js
+* Express.js
+* REST APIs
+
+**Database**
+
+* MongoDB
+* MySQL
+* PostgreSQL
+
+**Tools**
+
+* Git
+* GitHub
+* Cloudflare
+* Linux
+
+
+
+## 🌱 Currently Learning
+
+* Java
+* System Design
+* Cloud Infrastructure
+* Cyber Security
+
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anujsmit\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujsmit\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anujsmit\&theme=tokyonight)
+
+
+
+## 🏆 Highlights
+
+* Built multiple web and mobile applications
+* Flutter & React Developer
+* SaaS Product Builder
+* Founder of Digital Products
+
+
+
+## 📫 Contact
+
+📧 Email: [anujkattel62@gmail.com](mailto:anujkattel62@gmail.com)
+
+🌐 Website: https://www.anujkattel.com.np
+
+
+
+### ⚡ Motto
+
+**Build. Learn. Improve. Repeat.**
